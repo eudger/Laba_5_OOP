@@ -1,0 +1,8 @@
+﻿  task_5.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.36.32532\include\memory(3465,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\World\OOP\2 semesrt\task_5\task_5\task_5.cpp(190,27): message : see reference to function template instantiation 'std::unique_ptr<Group,std::default_delete<Group>> std::make_unique<Group,int,int,0>(int &&,int &&)' being compiled
+  task_5.vcxproj -> E:\World\OOP\2 semesrt\task_5\task_5\x64\Debug\task_5.exe
